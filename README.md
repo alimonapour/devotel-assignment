@@ -5,7 +5,7 @@
 A single-page application was built using React, Typescript, and TawilwindCss with current temperature, weather description, time, an icon representing the weather, a 7-day forecast, and a display of weather based on user-selected start and end dates.
 
 ## Demo
-https://snapp-food-vendors-list.vercel.app
+https://devotel-assignment.vercel.app/
 
 ## Features
 
